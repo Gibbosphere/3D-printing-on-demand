@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the final documentation for our IT Project Management course project, **3D Printing Spare Parts on Demand**, undertaken by Team 16 for the Council for Scientific and Industrial Research (CSIR). The project aimed to address challenges faced by asset-heavy industries, particularly mining, in obtaining timely access to spare parts through innovative solutions involving **additive manufacturing (3D printing)**.
+This repository contains the final documentation for our IT Project Management course project, **3D Printing Spare Parts on Demand**, undertaken by Team 16 for the Council for Scientific and Industrial Research (CSIR). This project, which I led, aimed to address challenges faced by asset-heavy industries, particularly mining, in obtaining timely access to spare parts through innovative solutions involving **additive manufacturing (3D printing)**.
 
 ## Project Context
 
@@ -58,4 +58,4 @@ This project provided valuable insights into the intersection of **project manag
 
 ---
 
-For more details, refer to the [final documentation](./3D_Printing_on_Demand_Team16_Final_Documentation.pdf).
+For more details, refer to the [final documentation](./3D_Printing_on_Demand_Team16_Final_Documentation.pdf), as well as our [final presentation](./3D%20Printing%20on%20Demand%20Final%20Presentation.pptx).
